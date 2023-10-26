@@ -20,7 +20,7 @@ public class Magic8Ball {
 			JOptionPane.showMessageDialog(null, "Yeah, probably.");
 		}
 		else if (rand == 1) {
-			JOptionPane.showMessageDialog(null, "Nah, proably not.");
+			JOptionPane.showMessageDialog(null, "Overlook not so good.");
 		}
 		else if (rand == 2) {
 			JOptionPane.showMessageDialog(null, "I am unsure about this one. Maybe ask Google?");
